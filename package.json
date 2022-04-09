@@ -11,7 +11,7 @@
     "@vue/cli": "4.1.2",
     "core-js": "^3.4.4",
     "firebase": "7.6.1",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-duration-format": "2.3.2",
     "splitpanes": "2.2.0",
     "vue": "^2.6.10",
